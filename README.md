@@ -1,4 +1,4 @@
-# Incode Internship Documents
+# Incode Internship Documents - Session 3
 
 This repo contains documents related Incode Internship program,
 such as plans, methodology and etc.
